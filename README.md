@@ -9,3 +9,6 @@ Adapta GTK Mod for Firefox 57+. Adapta is an adaptive Gtk+ theme based on Materi
 3. Copy userChrome.css and userContent.css to `./local/.mozilla/firefox/xxxxxxxx.default-xxxxxxxx/chrome/ `.
 4. Start Firefox to apply the new Material Adapted mod.
 5. Install the [Adapta GTK Theme (WebExtension) from Firefox Add-ons](https://addons.mozilla.org/es/firefox/addon/adapta-theme-webextension/?src=userprofile#&gid=1&pid=1) to completely match the Adapta GTK Theme guidelines
+6. Install both .xpi file extensions via Firefox
+
+[Any question, please refer to original post at Ubuntuleon.com](https://www.ubuntuleon.com/2018/03/mods-realmente-utiles-de-firefox-para.html) (in Spanish)
